@@ -7,3 +7,4 @@ Replication codes are provided for Python in google colab or R.
 
 Until otherwise published, all sub-dataset that I use in my analyses are available from google drive. Please email me for access.
 
+If you want to install the R-package claimR, please refer to the repo: DariusRibbe/claimR
